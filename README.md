@@ -1,9 +1,4 @@
-# single-cell-ssl: Self-Supervised Foundation Model for Single-Cell Transcriptomics
-
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)](https://pytorch.org/)
-[![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Self-Supervised Foundation Model for Single-Cell Transcriptomics
 
 A production-grade deep learning research codebase implementing a **Masked Autoencoder (MAE)** Transformer architecture for self-supervised representation learning (SSL) on single-cell RNA sequencing (scRNA-seq) data.
 
@@ -154,3 +149,4 @@ pytest tests/
 ## License
 
 Distributed under the **MIT License**. See the `LICENSE` file for more details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
